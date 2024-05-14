@@ -1,4 +1,4 @@
 ﻿# Security-Reports
 In this repository, I am sharing my security reports from the <a href="https://coursera.org/share/ef556240f318d80f857447f1d5971030">Network Security</a> and <a href="https://coursera.org/share/4cdbf4f03654e38350f1761554c5fb7b">Detection and Response</a> courses of the Google Cybersecurity Professional Certificate.
-## Report 1:
+### Report 1:
 A multimedia company's network services were disrupted by a distributed denial of service (DDoS) attack. In <a href="https://github.com/N-r0bin/Security-Reports/blob/main/Network%20Security/NIST%20Framework%20Incident%20report%20analysis.pdf">NIST Framework Incident Report Analysis</a> file demonstrated how I analyzed the incident utilizing the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF): I analyzed the event, identified vulnerabilities, and proposed security enhancements to fortify the organization's network infrastructure.
